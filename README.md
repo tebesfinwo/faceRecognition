@@ -7,19 +7,30 @@ A short project for experimenting with different kind of face recognition algori
 
 ## Installation
 
-Required Jars:
+Required Jars
+
 1. javacpp.jar
+
 2. javacv.jar 
+
 3. javacv-*.jar
+
 4. opencv-*.jar
+
 5. ffmpeg=*.jar
 
 Quick start (Eclipse) :
+
 1. You need several jars to get this started. 
+
 2. The required jars are in these two ZIP files : javacv-0.7-bin.zip & javacv-0.7-cppjars.zip
+
 3. Please download required jars from following link. https://code.google.com/p/javacv/downloads/list
+
 4. Create a project in your IDE. 
+
 5. Uncompress the download ZIP files and add them to your build path. 
+
 6. Clone or download this repository and add them into your project src folder. 
 
 Have fun. 
