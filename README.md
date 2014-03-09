@@ -36,7 +36,7 @@ Quick start (Eclipse) :
 Have fun. 
 
 
-** In depth tutorial of installing will be on my blog in future.
+** In depth tutorial will be on my blog soon.
 
 ## API Reference
 
