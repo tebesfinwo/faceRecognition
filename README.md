@@ -17,7 +17,7 @@ Required Jars
 
 4. opencv-*.jar
 
-5. ffmpeg=*.jar
+5. ffmpeg-*.jar
 
 Quick start (Eclipse) :
 
