@@ -17,15 +17,15 @@ Required Jars
 
 4. opencv-*.jar
 
-5. ffmpeg=*.jar
+5. ffmpeg-*.jar
 
 Quick start (Eclipse) :
 
-1. You need several jars to get this started. 
+1. You need jars listed above to get this started. 
 
-2. The required jars are in these two ZIP files : javacv-0.7-bin.zip & javacv-0.7-cppjars.zip
+2. The jars are in these two ZIP files : javacv-0.7-bin.zip & javacv-0.7-cppjars.zip
 
-3. Please download required jars from following link. https://code.google.com/p/javacv/downloads/list
+3. Please download the jars from following link. https://code.google.com/p/javacv/downloads/list
 
 4. Create a project in your IDE. 
 
