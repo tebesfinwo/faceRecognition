@@ -28,3 +28,6 @@
 10 personJ Cambridge_FaceDB/s10/1.pgm
 10 personJ Cambridge_FaceDB/s10/2.pgm
 10 personJ Cambridge_FaceDB/s10/3.pgm
+11 personK Cambridge_FaceDB/s11/1.pgm
+11 personK Cambridge_FaceDB/s11/2.pgm
+11 personK Cambridge_FaceDB/s11/3.pgm
